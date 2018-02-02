@@ -1,0 +1,84 @@
+.menu li a::before {
+  background: #ff0101 none repeat scroll 0 0;
+}
+.menu li.current-menu-item a {
+  color: #ff0101;
+}
+.menu li a:hover {
+    color: #ff0101;
+    text-decoration: underline;
+}
+.fa-pencil-square-o {
+    background: #ff0101;
+}
+.fa-pencil-square-o:hover {
+    color: #ff0101;
+}
+.welcome-text span {
+    color: #ff0101;
+}
+h2.content-title,
+h2.content-subtitle {
+    color: #ff0101;
+}
+.farm-home-slider-area .slick-prev.fa.fa-angle-left.slick-arrow, .farm-home-slider-area .slick-next.fa.fa-angle-right.slick-arrow{
+	color: #ff0101;
+}
+.slick-next.fa.fa-angle-right.slick-arrow:hover,
+.slick-prev.fa.fa-angle-left.slick-arrow:hover {
+    background: #e70101;
+}
+.farm-about-us .contact-botton a {
+    background: #ff0101;
+	box-shadow: 7px 7px 0 #ffd9cc;
+}
+.product-select .col-sm-6:nth-child(odd) .farm-single-product:hover {
+    border: 2px solid #ff0101
+}
+.product-select .col-sm-6:nth-child(even) .farm-single-product:hover {
+    border-color: #ff0101
+}
+.hover-product a {
+    background: #ff0101 none repeat scroll 0 0;
+    -webkit-box-shadow: 8px 8px 0px rgba(255, 67, 1, 0.2);
+    -moz-box-shadow: 8px 8px 0px rgba(255, 67, 1, 0.2);
+    box-shadow: 8px 8px 0px rgba(255, 67, 1, 0.2);
+}
+.panel-heading a::before {
+    background: #ff0101;
+}
+.contact-botton a:hover {
+    background: #ff0101 none repeat scroll 0 0;
+}
+.farm-about-us .contact-botton a {
+    background: #ff0101;
+}
+.farm-price-content h4 a {
+    color: #ff0101;
+}
+.farm-project-nav li:hover,
+.farm-project-nav li.active {
+    color: #ff0101;
+}
+.project-weight {
+    background: #ff0101 none repeat scroll 0 0;
+}
+.single-client-btn a.client-btn {
+    background: #ff0101 none repeat scroll 0 0;
+}
+.single-client-btn a.client-btn:hover {
+    color: #ff0101;
+}
+.single-contact:hover p {
+    color: #ff0101;
+}
+.single-submit input {
+    background: #ff0101 none repeat scroll 0 0;
+    box-shadow: 5px 5px 0 #5c3629;
+}
+.single-submit input:hover {
+    color: #ff0101;
+}
+.scrollToTop {
+	background: #ff0101;
+}
